@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **markmulli001@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1sOrjbGGU5gjWc23ppn2UPLQ6456Ny8bd/edit?usp=drive_link&ouid=115645033812269945006&rtpof=true&sd=true](https://docs.google.com/document/d/1sOrjbGGU5gjWc23ppn2UPLQ6456Ny8bd/edit?usp=drive_link&ouid=115645033812269945006&rtpof=true&sd=true)
-
 - ⚡ Fun fact **I am an opacarophile**
 
 <h3 align="left">Connect with me:</h3>
