@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Mulli ⭐</h1>
-<h3 align="center">A passionate Full Stack Developer from Kenya 🇰🇪</h3>
+<h3 align="center">An aspiring Full Stack Developer</h3>
 
 
 - 🔭 I’m currently working on single web page applications in Angular [Angular Authentication](angular_auth)
