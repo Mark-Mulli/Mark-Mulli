@@ -2,9 +2,7 @@
 <h3 align="center">An aspiring Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **single web page applications in Angular**
-
-- 🌱 I’m currently learning **Machine Learning and NodeJS**
+- 🔭 I’m currently working on **designing a complete php web applicationsystem**
 
 - 💬 Ask me about **Angular, C# and python**
 
