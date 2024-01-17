@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **designing a complete php web applicationsystem**
+- 🔭 I’m currently working on **designing a complete php web application system**
 
 - 💬 Ask me about **Angular, C# and python**
 
