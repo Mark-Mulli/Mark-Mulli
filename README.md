@@ -1,6 +1,6 @@
-![Mark Mulli](https://raw.githubusercontent.com/Mark-Mulli/mylogo.gif)
+![Mark Mulli](mylogo.gif)
 <h1 align="center">Hi 👋, I'm Mark Mulli ⭐</h1>
-<h3 align="center">An aspiring Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 
 - 🔭 I’m currently working on **developing RESTful APIs**
