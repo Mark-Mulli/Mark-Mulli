@@ -1,3 +1,4 @@
+![Mark Mulli](https://raw.githubusercontent.com/Mark-Mulli/mylogo.gif)
 <h1 align="center">Hi 👋, I'm Mark Mulli ⭐</h1>
 <h3 align="center">An aspiring Full Stack Developer</h3>
 
